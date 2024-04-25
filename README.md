@@ -20,4 +20,10 @@
 ## Let's Connect
 - [LinkedIn](www.linkedin.com/in/ahmad-farhan-kholik)
 
-
+## Skills
+```markdown
+- **Languages:** Python, JavaScript, Java, C++
+- **Frontend:** HTML, CSS, React.js, Bootstrap
+- **Backend:** Node.js, Flask, Django
+- **Data Science:** Pandas, NumPy, TensorFlow, scikit-learn
+- **Tools:** Git, VS Code, Jupyter Notebook, Docker
