@@ -5,7 +5,7 @@
 - 💼 Currently exploring full-stack web development and data science.
 - 👯 Looking to collaborate on open-source projects related to AI/ML or web development.
 - 💬 Let's connect and discuss tech, coding, or anything interesting!
-- 📫 Reach me at [afarhank22@gmail.com](mailto:afarhank22@gmail.com).
+- 📫 Reach me at [afarhank22@gmail.com](mailto:ahmadfarhankholik01@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also an illustrator and love creating digital art!
 
