@@ -1,28 +1,28 @@
-# Hi there, I'm Farhan K. 👋
+# Halo, saya Farhan K. 👋
 
-## About Me
-- 🎓 Computer Science student passionate about software development and machine learning.
-- 💼 Currently exploring full-stack web development and data science.
-- 👯 Looking to collaborate on open-source projects related to AI/ML or web development.
-- 💬 Let's connect and discuss tech, coding, or anything interesting!
-- 📫 Reach me at [afarhank22@gmail.com](mailto:afarhank22@gmail.com).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also an illustrator and love creating digital art!
+## Tentang Saya
+- 🎓 Mahasiswa Ilmu Komputer yang memiliki minat besar pada pengembangan perangkat lunak dan pembelajaran mesin.
+- 💼 Saat ini menjelajahi pengembangan web full-stack dan data science.
+- 👯 Ingin berkolaborasi dalam proyek open-source terkait AI/ML atau pengembangan web.
+- 💬 Mari terhubung dan diskusikan teknologi, coding, atau hal menarik lainnya!
+- 📫 Hubungi saya di [afarhank22@gmail.com](mailto:afarhank22@gmail.com).
+- 😄 Pronoun: Dia/He/Him
+- ⚡ Fakta menarik: Saya juga seorang ilustrator dan suka membuat seni digital!
 
-## Skills
-- **Languages:** JavaScript
-- **Frameworks/Libraries:** React.js, Node.js, Tailwindcss, Next.js, Vue.js
-- **Tools:** Git, VS Code, Docker
+## Keahlian
+- **Bahasa Pemrograman:** JavaScript
+- **Framework/Libraries:** React.js, Node.js, Tailwindcss, Next.js, Vue.js
+- **Alat:** Git, VS Code, Docker
 
-## GitHub Stats
+## Statistik GitHub
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhank15&layout=compact&theme=dark" alt="Top Languages" style="height: 200px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhank15&theme=dark" alt="GitHub Streak" style="height: 200px;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhank15&theme=dark" alt="Profile Summary" style="width: 430px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=farhank15&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhank15&layout=compact&theme=dark&v=1" alt="Top Languages" style="height: 200px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhank15&theme=dark&v=1" alt="GitHub Streak" style="height: 200px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhank15&theme=dark&v=1" alt="Profile Summary" style="width: 430px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=farhank15&show_icons=true&theme=dark&count_private=true&v=1" alt="GitHub Stats" style="height: 200px;" />
 </div>
 
-## Let's Connect
+## Mari Terhubung
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-farhan-kholik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
