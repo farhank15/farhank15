@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I'm also an illustrator and love creating digital art!
 
 ## Skills
-- **Languages:** Javasript
-- **Frameworks/Libraries:** React.js, Node.js, Tailwindcss, Next.js, vue.js. 
-- **Tools:** Git, VS Code, , Docker
+- **Languages:** JavaScript
+- **Frameworks/Libraries:** React.js, Node.js, Tailwindcss, Next.js, Vue.js
+- **Tools:** Git, VS Code, Docker
 
 ## GitHub Stats
 <p align="center">
@@ -27,9 +27,3 @@
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ahmad-farhan-kholik)
-
-## Skills
-- **Languages:** JavaScript, TypeScript
-- **Frontend:** HTML, CSS, React.js, Bootstrap, Tailwind
-- **Backend:** Node.js
-- **Tools:** Git, VS Code, Docker
