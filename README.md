@@ -19,7 +19,7 @@
   <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhank15&layout=compact&theme=dark" alt="Top Languages" style="height: 200px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhank15&theme=dark" alt="GitHub Streak" style="height: 200px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhank15&theme=dark" alt="GitHub Streak" style="height: 200px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhank15&theme=dark" alt="Profile Summary" style="height: 200px; width: 500px; " />
   </div>
 </div>
 
