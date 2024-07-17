@@ -10,18 +10,26 @@
 - ⚡ Fun fact: I'm also an illustrator and love creating digital art!
 
 ## Skills
-- Languages: Python, JavaScript, Java, C++
-- Frameworks/Libraries: React.js, Node.js, Flask, TensorFlow, Bootstrap
-- Tools: Git, VS Code, Jupyter Notebook, Docker
+- **Languages:** Javasript
+- **Frameworks/Libraries:** React.js, Node.js, Tailwindcss, Next.js, vue.js. 
+- **Tools:** Git, VS Code, , Docker
 
 ## GitHub Stats
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhank15&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhank15&show_icons=true&theme=dark" alt="Farhan's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhank15&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhank15&theme=dark" alt="Profile Summary" />
+</p>
 
 ## Let's Connect
-- [LinkedIn](www.linkedin.com/in/ahmad-farhan-kholik)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-farhan-kholik)
 
 ## Skills
-- **Languages:** JavaScript, Typescript. 
-- **Frontend:** HTML, CSS, React.js, Bootstrap, Tailwind.
-- **Backend:** Node.js.
-- **Tools:** Git, VS Code,  Docker.
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** HTML, CSS, React.js, Bootstrap, Tailwind
+- **Backend:** Node.js
+- **Tools:** Git, VS Code, Docker
