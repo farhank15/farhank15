@@ -22,7 +22,7 @@
   </div>
   <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhank15&theme=dark" alt="GitHub Streak" style="height: 200px;" />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=farhank15&theme=rogue" alt="GitHub Activity Graph" style="height: 200px;" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=farhank15&theme=rogue" alt="GitHub Activity Graph" style="height: 200px;" />
   </div>
 </div>
 
