@@ -16,8 +16,8 @@
 
 ## GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhank15&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhank15&theme=dark" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhank15&layout=compact&theme=dark" alt="Top Languages" style="height: 200px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhank15&theme=dark" alt="Profile Summary" style="height: 200px;" />
 </div>
 
 ## Let's Connect
