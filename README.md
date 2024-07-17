@@ -15,12 +15,10 @@
 - **Tools:** Git, VS Code, Docker
 
 ## GitHub Stats
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhank15&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhank15&theme=dark" alt="Profile Summary" />
-</p>
+</div>
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ahmad-farhan-kholik)
