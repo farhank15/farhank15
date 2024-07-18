@@ -3,7 +3,7 @@
 ## Tentang Saya
 - 🎓 Mahasiswa Ilmu Komputer yang memiliki minat besar pada pengembangan perangkat lunak dan pembelajaran mesin.
 - 💼 Saat ini menjelajahi pengembangan web full-stack dan data science.
-- 👯 Ingin berkolaborasi dalam proyek open-source terkait AI/ML atau pengembangan web.
+- 👯 Ingin berkolaborasi dalam proyek open-source terkait pengembangan web.
 - 💬 Mari terhubung dan diskusikan teknologi, coding, atau hal menarik lainnya!
 - 📫 Hubungi saya di [afarhank22@gmail.com](mailto:afarhank22@gmail.com).
 - 😄 Pronoun: Dia/He/Him
