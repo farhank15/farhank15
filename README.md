@@ -1,17 +1,17 @@
 # Halo, saya Farhan K. 👋
 
 ## Tentang Saya
-- 🎓 Mahasiswa Ilmu Komputer yang memiliki minat besar pada pengembangan perangkat lunak dan pembelajaran mesin.
-- 💼 Saat ini menjelajahi pengembangan web full-stack dan data science.
+- 🎓 Mahasiswa Ilmu Komputer yang memiliki minat besar pada pengembangan perangkat lunak.
+- 💼 Saat ini menjelajahi pengembangan web full-stack.
 - 👯 Ingin berkolaborasi dalam proyek open-source terkait pengembangan web.
 - 💬 Mari terhubung dan diskusikan teknologi, coding, atau hal menarik lainnya!
-- 📫 Hubungi saya di [afarhank22@gmail.com](mailto:afarhank22@gmail.com).
+- 📫 Hubungi saya di [afarhank22@gmail.com](mailto:afhmadfarhankholik01@gmail.com).
 - 😄 Pronoun: Dia/He/Him
 - ⚡ Fakta menarik: Saya juga seorang ilustrator dan suka membuat seni digital!
 
 ## Keahlian
-- **Bahasa Pemrograman:** JavaScript
-- **Framework/Libraries:** React.js, Node.js, Tailwindcss, Next.js, Vue.js
+- **Bahasa Pemrograman:** JavaScript, TypeScript.
+- **Framework/Libraries:** React.js, Node.js, Tailwindcss, Next.js, Remix.
 - **Alat:** Git, VS Code, Docker
 
 ## Statistik GitHub
