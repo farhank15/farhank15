@@ -52,6 +52,18 @@ kebiasaan: "buka 20 tab, lupa yang mana lagi dikerjain"
   <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhank15&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
+## ⚽ Player Card
+
+<div align="center">
+  <a href="https://gitfut.com/farhank15">
+    <img width="400" src="https://gitfut.com/farhank15/opengraph-image?57b1687aaacbd944" alt="GitFut player card — 68 OVR CAM, Fantasista"/>
+  </a>
+  <br/>
+  <sub>68 OVR CAM — bukan Messi tapi lumayan lah buat main futsal di GitHub 🤡 <a href="https://gitfut.com/farhank15">cek kartu lu juga →</a></sub>
+</div>
+
+> 🎙️ **Scout's Report:** DRI 76 tapi SHO 49 — jago nge-dribble ngelilingin bug, giliran deploy malah gagal nendang ke gawang. DEF 57, pertahanan sekelas kalau ditanya "kenapa production down" jawabnya "it works on my machine." Overall: banyak potensi, dikit disiplin, satu tim sama laptop 97°C yang juga gak pernah nyerah 🔥🥵
+
 ## 🔗 Colek Aja
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-farhan-kholik)
